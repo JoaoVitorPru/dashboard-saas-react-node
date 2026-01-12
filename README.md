@@ -6,7 +6,7 @@ Projeto focado em boas práticas, arquitetura limpa e simulação de um produto 
 
 ---
 
-## 🧱 Stack Utilizada
+## 🧱 tecnologias Utilizada
 
 ### Frontend
 - React 18
